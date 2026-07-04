@@ -1,2 +1,2 @@
 # Gen_AI
-Notes
+# Python Notes
